@@ -2,6 +2,7 @@
 title: "Win10 环境的SSH管理"
 tags:
     - SSH
+excerpt: "The management of SSH in Win10"
 last_modified_at: 2018-12-11
 ---
 
