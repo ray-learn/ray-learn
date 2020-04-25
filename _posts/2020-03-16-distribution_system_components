@@ -1,0 +1,10 @@
+---
+title: "笔记-分布式系统的组件"
+tags:
+    - distribute system
+excerpt: "The definition of distribute system component"
+---
+
+## 进程
+
+进程在分布式系统中是作为什么角色存在的呢？
